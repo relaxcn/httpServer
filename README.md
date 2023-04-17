@@ -8,6 +8,8 @@
 
 ### 测试截图
 
+![7b8ef17b076c8eca6f0ee433125961e4.png](https://img.gejiba.com/images/7b8ef17b076c8eca6f0ee433125961e4.png)
+
 ![397f380d9fff9031cb9665fb312b423a.png](https://img.gejiba.com/images/397f380d9fff9031cb9665fb312b423a.png)
 
 ![5d6b88f34b472b0e34c7062c664323b9.png](https://img.gejiba.com/images/5d6b88f34b472b0e34c7062c664323b9.png)
@@ -15,5 +17,3 @@
 ![493a10c75e4e0f67fd132d41f0e19dd4.png](https://img.gejiba.com/images/493a10c75e4e0f67fd132d41f0e19dd4.png)
 
 ![0fe1f45eac0bfd607ef8b593fbc67a94.png](https://img.gejiba.com/images/0fe1f45eac0bfd607ef8b593fbc67a94.png)
-
-![7b8ef17b076c8eca6f0ee433125961e4.png](https://img.gejiba.com/images/7b8ef17b076c8eca6f0ee433125961e4.png)
